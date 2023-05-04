@@ -1,0 +1,21 @@
+{
+    "name": "weather_tpp2",
+    "title": "weather_tpp2",
+    "notes": "ข้อมูลคุณภาพอากาศของประเทศไทย ประกอบไปด้วยข้อมูลอำเภอ, จังหวัด, ประเทศ, ดัชนีคุณภาพอากาศแบบ US, มลพิษหลัก, อุณหภูมิอากาศ, ความกดอากาศ, ความชื้น, ความเร็วลม และ ทิศทางลม โดยข้อมูลจะอัพเดททุก ๆ 6 ชั่วโมง",
+    "data_type": "ข้อมูลสถิติ",
+    "owner_org": "tu", 
+    "data_source": "-",
+    "maintainer": "-",
+    "update_frequency_unit": "ปี",
+    "data_format": [
+      "CSV"
+    ],
+    "maintainer_email": "tu@sci.com",
+    "objective": [
+      "เพื่อการให้บริการประชาชน",
+      "อื่นๆ"
+    ],
+    "data_category": "ข้อมูลสาธารณะ",
+    "geo_coverage": "ประเทศ",
+    "license_id": "License not specified"
+}
